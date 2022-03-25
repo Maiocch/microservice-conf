@@ -1,0 +1,9 @@
+accounts:
+  mailDetails:
+    hostName: "default-prod-acc@mail.com"
+    port: "9000"
+    from: "mailPROD"
+  activeBranches:
+    - "New York"
+    - "Milan"
+    - "Barcellona"

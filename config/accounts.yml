@@ -1,0 +1,9 @@
+accounts:
+  mailDetails:
+    hostName: "default-acc@mail.com"
+    port: "9000"
+    from: "mailSVIL"
+  activeBranches:
+    - "Mumbai"
+    - "London"
+    - "Washington"
