@@ -1,0 +1,9 @@
+loans:
+  mailDetails:
+    hostName: "prod-loan@mail.com"
+    port: "9000"
+    from: "mailPROD"
+  activeBranches:
+    - "Mumbai"
+    - "London"
+    - "Washington"

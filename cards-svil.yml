@@ -1,0 +1,9 @@
+cards:
+  mailDetails:
+    hostName: "svil-card@mail.com"
+    port: "9000"
+    from: "mailSVIL"
+  activeBranches:
+    - "Mumbai"
+    - "London"
+    - "Washington"

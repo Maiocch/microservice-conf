@@ -1,0 +1,9 @@
+cards:
+  mailDetails:
+    hostName: "prod-card@mail.com"
+    port: "9000"
+    from: "mailPROD"
+  activeBranches:
+    - "Mumbai"
+    - "London"
+    - "Washington"

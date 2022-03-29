@@ -1,0 +1,9 @@
+loans:
+  mailDetails:
+    hostName: "default-loan@mail.com"
+    port: "9000"
+    from: "mailDEFAULT"
+  activeBranches:
+    - "Mumbai"
+    - "London"
+    - "Washington"

@@ -1,0 +1,9 @@
+cards:
+  mailDetails:
+    hostName: "default-card@mail.com"
+    port: "9000"
+    from: "mailDEFAULT"
+  activeBranches:
+    - "Mumbai"
+    - "London"
+    - "Washington"

@@ -1,0 +1,9 @@
+loans:
+  mailDetails:
+    hostName: "svil-loan@mail.com"
+    port: "9000"
+    from: "mailSVIL"
+  activeBranches:
+    - "Mumbai"
+    - "London"
+    - "Washington"
