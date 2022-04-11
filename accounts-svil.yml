@@ -1,0 +1,9 @@
+accounts:
+  mailDetails:
+    hostName: "svil-prod-acc@mail.com"
+    port: "9000"
+    from: "mailSVIL"
+  activeBranches:
+    - "New York"
+    - "Milan"
+    - "Barcellona"
